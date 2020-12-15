@@ -1,4 +1,7 @@
 # scp decode
 
 # How to use
- * python main.py -f tutorial.scp
+ * decode: 
+   * python main.py -f tutorial.scp
+ * encode:
+   * python mainEncode.py -f loading.sc loading_tex.sc
